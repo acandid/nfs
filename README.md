@@ -53,8 +53,11 @@ Example Playbook
 Example inventory file
 ----------------------
 [nfs_server]
+
 192.168.0.6
+
 [client]
+
 192.168.0.9
 
 ## Contributing
